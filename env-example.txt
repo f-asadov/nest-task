@@ -1,0 +1,18 @@
+# APP
+APP_PORT=3000
+
+# AUTH
+JWT_SECRET=test
+JWT_EXPIRES_IN=1h
+
+
+# DB
+DB_HOST=postgres
+DB_PORT=5432
+DB_USER=nestuser
+DB_PASSWORD=nestpass
+DB_NAME=nestdb
+
+# REDIS
+REDIS_HOST=redis
+REDIS_PORT=6379
